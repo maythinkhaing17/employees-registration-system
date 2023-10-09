@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Log;
 /**
  * Manage database transactions
  *
- * @author  PhyoNaing Htun
+ * @author May Thin Khaing
  * @create  2022/06/21
  */
 class DBTransaction {
